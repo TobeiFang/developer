@@ -2,4 +2,4 @@
 
 记录一些前端开发者相关的内容,等待后续补充
 
-设置同步使用的 GitHub Gist ID:9c38dfa00d5611d2072a3f05ab13fb36/bc802bd7916ef27c15fe6b24342c9f6b86b10b1e
+设置同步使用的 GitHub Gist ID:9c38dfa00d5611d2072a3f05ab13fb36/35c0e6c54f5a1eac4007c14be06f4e9fdf302ce5
